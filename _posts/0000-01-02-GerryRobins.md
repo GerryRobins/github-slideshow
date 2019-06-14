@@ -1,10 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our Gerry's slide!"
 ---
-<<<<<<< HEAD
 NEW TEXT !!!!!!!!!!!!!
 =======
 This is GerryRobins slide.
->>>>>>> my-slide
+This is an awesome slide.
 Use the left arrow to go back!
